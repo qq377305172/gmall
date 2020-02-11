@@ -12,7 +12,7 @@ import java.util.List;
  * @author makejava
  * @since 2020-02-11 16:57:37
  */
-public interface UserMapper extends Mapper<UmsMember> {
+public interface UserDao extends Mapper<UmsMember> {
 
     /**
      * 通过ID查询单条数据

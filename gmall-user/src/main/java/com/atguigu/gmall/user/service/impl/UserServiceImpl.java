@@ -1,7 +1,7 @@
 package com.atguigu.gmall.user.service.impl;
 
 import com.atguigu.gmall.user.entity.UmsMember;
-import com.atguigu.gmall.user.dao.UserMapper;
+import com.atguigu.gmall.user.dao.UserDao;
 import com.atguigu.gmall.user.service.UserService;
 import org.springframework.stereotype.Service;
 
@@ -14,10 +14,10 @@ import java.util.List;
  * @author makejava
  * @since 2020-02-11 16:57:40
  */
-@Service("umsMemberService")
+@Service("UserService")
 public class UserServiceImpl implements UserService {
     @Resource
-    private UserMapper userMapper;
+    private UserDao userDao;
 
     /**
      * 通过ID查询单条数据
@@ -27,8 +27,8 @@ public class UserServiceImpl implements UserService {
      */
     @Override
     public UmsMember queryById(Long id) {
-        return this.userMapper.selectByPrimaryKey(id);
-//        return this.umsMemberDao.queryById(id);
+//        return this.userMapper.selectByPrimaryKey(id);
+        return this.userDao.queryById(id);
     }
 
     /**
@@ -40,7 +40,7 @@ public class UserServiceImpl implements UserService {
      */
     @Override
     public List<UmsMember> queryAllByLimit(int offset, int limit) {
-        return this.userMapper.queryAllByLimit(offset, limit);
+        return this.userDao.queryAllByLimit(offset, limit);
     }
 
     /**
@@ -51,7 +51,7 @@ public class UserServiceImpl implements UserService {
      */
     @Override
     public UmsMember insert(UmsMember umsMember) {
-        this.userMapper.insert(umsMember);
+        this.userDao.insert(umsMember);
         return umsMember;
     }
 
@@ -63,7 +63,7 @@ public class UserServiceImpl implements UserService {
      */
     @Override
     public UmsMember update(UmsMember umsMember) {
-        this.userMapper.update(umsMember);
+        this.userDao.update(umsMember);
         return this.queryById(umsMember.getId());
     }
 
@@ -75,6 +75,6 @@ public class UserServiceImpl implements UserService {
      */
     @Override
     public boolean deleteById(Long id) {
-        return this.userMapper.deleteById(id) > 0;
+        return this.userDao.deleteById(id) > 0;
     }
 }

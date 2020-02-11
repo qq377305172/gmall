@@ -19,7 +19,7 @@ public class UserController {
      * 服务对象
      */
     @Resource
-    private UserService umsMemberService;
+    private UserService UserService;
 
     /**
      * 通过主键查询单条数据
@@ -29,7 +29,7 @@ public class UserController {
      */
     @GetMapping("selectOne")
     public UmsMember selectOne(Long id) {
-        return this.umsMemberService.queryById(id);
+        return this.UserService.queryById(id);
     }
 
 }
