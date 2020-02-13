@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b68fb1e0-e1ff-4d62-be85-5b8835f7e4f5" name="Default Changelist" comment="5">
+      <change afterPath="$PROJECT_DIR$/gmall-common-util/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-parent/gmall-parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-service-util/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-parent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-user/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/gmall?useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=false&amp;serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/gmall?useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=false&amp;serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/gmall?useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=false&amp;serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gmall: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\intellij-idea-projects\gmall\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.2\maven-repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XedhwmW29LbPjVi4K8wLymNWfr" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gmall-api/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\intellij-idea-projects\gmall\gmall-api\src\main\resources" />
+      <recent name="D:\intellij-idea-projects\gmall\gmall-parent" />
+      <recent name="D:\intellij-idea-projects\gmall\gmall-api\src\main\java\com\atguigu\gmall" />
+      <recent name="D:\intellij-idea-projects\gmall\gmall-parent\src\main\java\com\atguigu\gmall\api\bean" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\intellij-idea-projects\gmall\gmall-api\src\main\resources\mapper" />
+      <recent name="D:\intellij-idea-projects\gmall" />
+      <recent name="D:\intellij-idea-projects\gmall\gmall-user\src\main\resources\dao" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn -U idea:idea" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GmallUserApplication">
+    <configuration name="gmall-parent [clean:clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean:clean" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/gmall-parent" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="GmallUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.user.GmallUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.gmall-parent [clean:clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b68fb1e0-e1ff-4d62-be85-5b8835f7e4f5" name="Default Changelist" comment="" />
+      <created>1581410616482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581410616482</updated>
+      <workItem from="1581410617804" duration="6241000" />
+      <workItem from="1581470778986" duration="2054000" />
+      <workItem from="1581472845996" duration="848000" />
+      <workItem from="1581473985050" duration="46000" />
+      <workItem from="1581474041380" duration="2187000" />
+      <workItem from="1581476240759" duration="6490000" />
+      <workItem from="1581501584229" duration="3449000" />
+      <workItem from="1581505405619" duration="53000" />
+      <workItem from="1581507199332" duration="627000" />
+      <workItem from="1581507958277" duration="73000" />
+      <workItem from="1581510032910" duration="49000" />
+      <workItem from="1581558697413" duration="9125000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1581412879229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581412879229</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2">
+      <created>1581415405321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581415405321</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3">
+      <created>1581471242484</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581471242484</updated>
+    </task>
+    <task id="LOCAL-00004" summary="5">
+      <created>1581563822405</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581563822405</updated>
+    </task>
+    <task id="LOCAL-00005" summary="6">
+      <created>1581573913306</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581573913306</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="2" />
+    <MESSAGE value="3" />
+    <MESSAGE value="5" />
+    <MESSAGE value="6" />
+    <option name="LAST_COMMIT_MESSAGE" value="6" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="184" key="#Project_Structure" timestamp="1581562845588">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1581562845588" />
+    <state x="1043" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581471654747">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1043" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581471654747" />
+    <state x="690" y="301" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1581563058403">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="301" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581563058403" />
+    <state x="618" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581414612714">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="618" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581414612714" />
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581563011296">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581563011296" />
+    <state x="560" y="119" key="CommitChangelistDialog2" timestamp="1581580894609">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="560" y="119" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1581580894609" />
+    <state x="1185" y="299" key="EnvironmentVariablesDialog" timestamp="1581471611540">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1185" y="299" key="EnvironmentVariablesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581471611540" />
+    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1581502230630">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1581502230630" />
+    <state width="1877" height="482" key="GridCell.Tab.0.bottom" timestamp="1581573932033">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="482" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1581573932033" />
+    <state width="1877" height="482" key="GridCell.Tab.0.center" timestamp="1581573932033">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="482" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1581573932033" />
+    <state width="1877" height="482" key="GridCell.Tab.0.left" timestamp="1581573932033">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="482" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1581573932033" />
+    <state width="1877" height="482" key="GridCell.Tab.0.right" timestamp="1581573932033">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="482" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1581573932033" />
+    <state width="1877" height="482" key="GridCell.Tab.1.bottom" timestamp="1581573932033">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="482" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1581573932033" />
+    <state width="1877" height="482" key="GridCell.Tab.1.center" timestamp="1581573932033">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="482" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1581573932033" />
+    <state width="1877" height="482" key="GridCell.Tab.1.left" timestamp="1581573932033">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="482" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1581573932033" />
+    <state width="1877" height="482" key="GridCell.Tab.1.right" timestamp="1581573932033">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="482" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1581573932033" />
+    <state x="432" y="177" key="SettingsEditor" timestamp="1581502237837">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="432" y="177" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1581502237837" />
+    <state width="1030" height="446" key="SwitcherDM" timestamp="1581415520123">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1030" height="446" key="SwitcherDM/0.0.1920.1050@0.0.1920.1050" timestamp="1581415520123" />
+    <state x="806" y="442" key="VCS.ChangelistChooser" timestamp="1581507977073">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="806" y="442" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1581507977073" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1581580898470">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1581580898470" />
+    <state x="752" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581563679120">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="752" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1581563679120" />
+    <state x="330" y="226" key="new project wizard" timestamp="1581580451711">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="330" y="226" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1581580451711" />
+    <state x="661" y="152" key="refactoring.ChangeSignatureDialog" timestamp="1581563335726">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="661" y="152" key="refactoring.ChangeSignatureDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581563335726" />
+    <state x="616" y="243" width="672" height="677" key="run.anything.popup" timestamp="1581510074843">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" width="672" height="677" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1581510074843" />
+  </component>
+</project>
