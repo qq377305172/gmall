@@ -1,7 +1,7 @@
 package com.atguigu.gmall.user.controller;
 
-import com.atguigu.gmall.user.entity.UmsMember;
-import com.atguigu.gmall.user.service.UserService;
+import com.atguigu.gmall.entity.UmsMember;
+import com.atguigu.gmall.service.UmsMemberService;
 import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
@@ -19,7 +19,7 @@ public class UserController {
      * 服务对象
      */
     @Resource
-    private UserService UserService;
+    private UmsMemberService umsMemberService;
 
     /**
      * 通过主键查询单条数据
@@ -29,7 +29,7 @@ public class UserController {
      */
     @GetMapping("selectOne")
     public UmsMember selectOne(Long id) {
-        return this.UserService.queryById(id);
+        return this.umsMemberService.queryById(id);
     }
 
 }
