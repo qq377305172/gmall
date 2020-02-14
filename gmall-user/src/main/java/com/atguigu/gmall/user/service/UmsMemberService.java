@@ -1,18 +1,14 @@
-package com.atguigu.gmall.service;
+package com.atguigu.gmall.user.service;
 
-import com.atguigu.gmall.entity.UmsMember;
-import org.apache.ibatis.annotations.Mapper;
-import org.springframework.stereotype.Service;
-
+import com.atguigu.gmall.user.entity.UmsMember;
 import java.util.List;
 
 /**
  * ä¼šå‘˜è¡¨(UmsMember)表服务接口
  *
  * @author makejava
- * @since 2020-02-13 11:04:49
+ * @since 2020-02-13 17:02:30
  */
-@Mapper
 public interface UmsMemberService {
 
     /**

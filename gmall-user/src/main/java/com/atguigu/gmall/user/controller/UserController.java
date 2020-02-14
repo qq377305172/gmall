@@ -1,7 +1,7 @@
 package com.atguigu.gmall.user.controller;
 
-import com.atguigu.gmall.entity.UmsMember;
-import com.atguigu.gmall.service.UmsMemberService;
+import com.atguigu.gmall.user.entity.UmsMember;
+import com.atguigu.gmall.user.service.UmsMemberService;
 import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
@@ -10,7 +10,7 @@ import javax.annotation.Resource;
  * ä¼šå‘˜è¡¨(UmsMember)表控制层
  *
  * @author makejava
- * @since 2020-02-11 16:57:40
+ * @since 2020-02-13 17:02:30
  */
 @RestController
 @RequestMapping("user")

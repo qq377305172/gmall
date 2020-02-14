@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b68fb1e0-e1ff-4d62-be85-5b8835f7e4f5" name="Default Changelist" comment="5">
-      <change afterPath="$PROJECT_DIR$/gmall-common-util/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-parent/gmall-parent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-service-util/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="b68fb1e0-e1ff-4d62-be85-5b8835f7e4f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_5_21_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/src/main/java/com/atguigu/gmall/user/dao/UmsMemberDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/src/main/java/com/atguigu/gmall/user/entity/UmsMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/src/main/java/com/atguigu/gmall/user/service/UmsMemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/src/main/java/com/atguigu/gmall/user/service/impl/UmsMemberServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/src/main/resources/mapper/UmsMemberDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-web-util/gmall-web-util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-web-util/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/EasyCodeConfig/gmall-ums_member.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EasyCodeConfig/gmall-ums_member.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gmall-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/UmsMemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/UmsMemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/service/UmsMemberService.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/atguigu/gmall/service/UmsMemberService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-common-util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-common-util/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gmall-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-parent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-service-util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-service-util/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-user/gmall-user.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-user/gmall-user.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gmall-user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-user/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-user/src/main/java/com/atguigu/gmall/user/GmallUserApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-user/src/main/java/com/atguigu/gmall/user/GmallUserApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-user/src/main/java/com/atguigu/gmall/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-user/src/main/java/com/atguigu/gmall/user/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-user/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-user/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-user/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-user/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-user/target/classes/com/atguigu/gmall/user/GmallUserApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-user/target/classes/com/atguigu/gmall/user/GmallUserApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-user/target/classes/com/atguigu/gmall/user/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-user/target/classes/com/atguigu/gmall/user/controller/UserController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +72,13 @@
       </path>
     </expand>
     <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -91,13 +126,14 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/gmall-api/src/main/resources" />
+    <property name="last_opened_file_path" value="D:/Program Files/TortoiseSVN/bin/svn.exe" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="org.mvnsearch.intellij.plugin.zookeeper.ui.ZkProjectConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -169,7 +205,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Admin\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -189,7 +225,11 @@
       <workItem from="1581507199332" duration="627000" />
       <workItem from="1581507958277" duration="73000" />
       <workItem from="1581510032910" duration="49000" />
-      <workItem from="1581558697413" duration="9125000" />
+      <workItem from="1581558697413" duration="12004000" />
+      <workItem from="1581583673848" duration="1716000" />
+      <workItem from="1581649055348" duration="572000" />
+      <workItem from="1581662703514" duration="67000" />
+      <workItem from="1581662782223" duration="852000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1581412879229</created>
@@ -226,7 +266,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581573913306</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="6">
+      <created>1581580895176</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581580895176</updated>
+    </task>
+    <task id="LOCAL-00007" summary="7">
+      <created>1581580991083</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581580991083</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +292,8 @@
     <MESSAGE value="3" />
     <MESSAGE value="5" />
     <MESSAGE value="6" />
-    <option name="LAST_COMMIT_MESSAGE" value="6" />
+    <MESSAGE value="7" />
+    <option name="LAST_COMMIT_MESSAGE" value="7" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="184" key="#Project_Structure" timestamp="1581562845588">
@@ -261,54 +316,54 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581563011296" />
-    <state x="560" y="119" key="CommitChangelistDialog2" timestamp="1581580894609">
+    <state x="560" y="119" key="CommitChangelistDialog2" timestamp="1581580990296">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="560" y="119" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1581580894609" />
+    <state x="560" y="119" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1581580990296" />
     <state x="1185" y="299" key="EnvironmentVariablesDialog" timestamp="1581471611540">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1185" y="299" key="EnvironmentVariablesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581471611540" />
-    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1581502230630">
+    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1581649600809">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1581502230630" />
-    <state width="1877" height="482" key="GridCell.Tab.0.bottom" timestamp="1581573932033">
+    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1581649600809" />
+    <state width="1877" height="419" key="GridCell.Tab.0.bottom" timestamp="1581587907361">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="482" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1581573932033" />
-    <state width="1877" height="482" key="GridCell.Tab.0.center" timestamp="1581573932033">
+    <state width="1877" height="419" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1581587907361" />
+    <state width="1877" height="419" key="GridCell.Tab.0.center" timestamp="1581587907361">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="482" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1581573932033" />
-    <state width="1877" height="482" key="GridCell.Tab.0.left" timestamp="1581573932033">
+    <state width="1877" height="419" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1581587907361" />
+    <state width="1877" height="419" key="GridCell.Tab.0.left" timestamp="1581587907361">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="482" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1581573932033" />
-    <state width="1877" height="482" key="GridCell.Tab.0.right" timestamp="1581573932033">
+    <state width="1877" height="419" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1581587907361" />
+    <state width="1877" height="419" key="GridCell.Tab.0.right" timestamp="1581587907361">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="482" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1581573932033" />
-    <state width="1877" height="482" key="GridCell.Tab.1.bottom" timestamp="1581573932033">
+    <state width="1877" height="419" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1581587907361" />
+    <state width="1877" height="419" key="GridCell.Tab.1.bottom" timestamp="1581587907361">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="482" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1581573932033" />
-    <state width="1877" height="482" key="GridCell.Tab.1.center" timestamp="1581573932033">
+    <state width="1877" height="419" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1581587907361" />
+    <state width="1877" height="419" key="GridCell.Tab.1.center" timestamp="1581587907361">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="482" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1581573932033" />
-    <state width="1877" height="482" key="GridCell.Tab.1.left" timestamp="1581573932033">
+    <state width="1877" height="419" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1581587907361" />
+    <state width="1877" height="419" key="GridCell.Tab.1.left" timestamp="1581587907361">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="482" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1581573932033" />
-    <state width="1877" height="482" key="GridCell.Tab.1.right" timestamp="1581573932033">
+    <state width="1877" height="419" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1581587907361" />
+    <state width="1877" height="419" key="GridCell.Tab.1.right" timestamp="1581587907361">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="482" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1581573932033" />
-    <state x="432" y="177" key="SettingsEditor" timestamp="1581502237837">
+    <state width="1877" height="419" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1581587907361" />
+    <state x="432" y="177" key="SettingsEditor" timestamp="1581662991883">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="432" y="177" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1581502237837" />
+    <state x="432" y="177" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1581662991883" />
     <state width="1030" height="446" key="SwitcherDM" timestamp="1581415520123">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -317,18 +372,18 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="806" y="442" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1581507977073" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1581580898470">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1581580999161">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1581580898470" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1581580999161" />
     <state x="752" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581563679120">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="752" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1581563679120" />
-    <state x="330" y="226" key="new project wizard" timestamp="1581580451711">
+    <state x="330" y="226" key="new project wizard" timestamp="1581582244343">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="330" y="226" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1581580451711" />
+    <state x="330" y="226" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1581582244343" />
     <state x="661" y="152" key="refactoring.ChangeSignatureDialog" timestamp="1581563335726">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -337,5 +392,12 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="616" y="243" width="672" height="677" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1581510074843" />
+  </component>
+  <component name="ZooKeeperConfig">
+    <option name="host" value="192.168.88.128" />
+    <option name="port" value="2181" />
+    <option name="charset" value="UTF-8" />
+    <option name="whitePaths" value="" />
+    <option name="enabled" value="true" />
   </component>
 </project>

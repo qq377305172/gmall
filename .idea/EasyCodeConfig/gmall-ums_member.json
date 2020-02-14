@@ -137,7 +137,7 @@
   } ],
   "pkColumn" : null,
   "otherColumn" : null,
-  "savePackageName" : "com.atguigu.gmall",
-  "savePath" : "./gmall-api/src/main/java/com/atguigu/gmall",
-  "saveModelName" : "gmall-api"
+  "savePackageName" : "com.atguigu.gmall.user",
+  "savePath" : "./gmall-user/src/main/java/com/atguigu/gmall/user",
+  "saveModelName" : "gmall-user"
 }
