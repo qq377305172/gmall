@@ -1,379 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="844edd1f-a31f-405d-884f-7c9a38428532" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_ext_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_csource_fastdfs_client_java_1_27_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/logs/gmall-2020-02-25.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/ItemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/SkuController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/service/SkuService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/service/impl/SkuServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/util/FdfsUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/bootstrap/js/jquery-3.1.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/image/eee_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/image/eee_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/image/eee_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/image/eee_07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/image/eee_08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/image/eee_09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/image/eee_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/image/eee_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/image/eee_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/image/eee_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/1466134037230.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/1f80c3d6fabfd3418e54b005312c00b5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/2017-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/2017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/2e19336b961586468ef36dc9f7199d4f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/3130323235303039372d313439343631373831333737363031343436353833_sma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/31333238343438363638385f7031343139383436323836343333_sma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/31353536363035383838375f7031343639393139313530303839_sma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/31353630323636363637315f7031343635383936363632333730_sma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/36313339393636322d33383232363231353037303333373238343937_sma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/36860afb69afa241beeb33ae86678093.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/4a79b87a68623d4e8a73aff3e25fa99b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/54b8871eNa9a7067e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/54b8872dNe37a9860.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/54b8875fNad1e0c4c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5698dc03N23f2e3b8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5698dc16Nb2ab99df.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/56a0a994Nf1b662dc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/56a89b8fNfbaade9a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/56ca6792N64e5eafc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/571734fdN2c8bfdb5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/574d4bf8N700d614f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/577dd103N67caec65.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5799a118N7da215bc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/579ef71eNc5bce6cf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/579f23ccN5e22e48f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/57cfb628N297332ea.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5804908cNd869da01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5825a5a6Nde8ecb75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/583eb3dbN1df5d225.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/584fcc3eNdb0ab94c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/586d9acaNf1123347.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5874a54dNcec29924.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5874a555Ne8192324.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/58afca92Ncb38b8b8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/58bf6956N07a174eb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/58c9f736N4e611532.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/58ccfeb4N58fd70f0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/58cfadb2Ndb66ef86.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/58d3c4fcNd94a9537.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/58d862f3Nb2291131.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/58dcd97eN5cfbd0de.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/58ec3c6eN4f9970ec.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/58f9c1bbN6965b210.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59015444N27317512.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/591582a1N44d6d0e8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5919637aN271a1301.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5926991bN5cbadbde.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59277e26Nfaca3cae.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59279a1bN999990f5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5929482aN80510784.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/592e7127N2313be91.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/592e9b89N008ee685.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/592e9f09N5bd34e60.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/592ee10bN1dea85b1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5930ff6dN0abb0b30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59365592Nc6fe3227.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/593e1fdaN28207ecb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59433015N866b682e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/594a358cN71d43ef0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5959a860Nd7c3a633.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5959f94dN8804eb46.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/596f2dfcN17900184.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/597ee771Nd8cd840e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/597fd125N28f99324.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5985525bN8ec74aba.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59880667Nc3ecfba2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/598d474bN3e3dde68.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/599079abNa63762a2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/599a806bN9d829c1c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59a37d83Ne80e527f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59a51bf6Nb8e478cc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ad0fabN2634aa72.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59b6538cN394d8cbb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59bfbe3cN63e4979b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59c0e2afNe6b7016a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59cc9591N5ce2ba2e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ce706fN6f3f2a4a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59dd8156N3d39c5d5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ddfcb1Nc3edb8f1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ded60eN3110f3a8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ded620Nfc0ab489.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ded626N7c4cb0a3(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ded626N7c4cb0a3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ded626Nda317ce2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ded626Ne3c69b70.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ded62cN6e9ac17c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ded62dN7e28abc5 (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ded62dN7e28abc5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ded62dNfed003a8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ded62eN64a9784c(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ded62eN64a9784c(2).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ded62eN64a9784c(3).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ded62eN64a9784c(4).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ded62eN64a9784c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ded682N99d4efcc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59e55e01N369f98f2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59e99c57Ne1056e92.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59e9b89bNf3f066a0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59e9bbecNe58deb0b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59eb0df9Nd66d7585.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59eb1e23N6c63b4ea.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59eb1e44N0f65afb8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59eb1e45N462c0a2f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59eb1e46Nb58fc1ba.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59eb1e54N9518347e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59eb1e56N3fcf5478.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ec0131Nf239df75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59ed97f0N0810fae9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59edbbf0Ne7e848c3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59edbbf5Nb8fe2f00.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59edbbf5Ne0e97545.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59edfde5Nd6b2eeec.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59edfdf4Ncd1e9097.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59edfdfcNe72f8b35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59edfdffNe3f35b75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59edfe00N0e8c9a2f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59edfe00N18280283.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59edfe01N0c0b49cf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59eea4ffNfe6271f1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59eefb49Nfc2d1436.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59eefb60N51a2e6c9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59eefb61N56f65626.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59eefb62N9b058172.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59eefb63N035a6300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59eefb64Na67961ff.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f0427fN3ada7866.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f16e15Ndfc05e79.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f1b961Nc55260a2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f1b96dNdbbcfb43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f1b96dNff5d8def.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f1b96eN385f8ca5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f1b96eN56cd24dc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f1b96eN8b7e8fae.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f1b96fN67ba96f4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f1b970N903fa8d1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f2d175N26c13dd1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f3d654Nfcf1f120.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f3d66cN9a0ef348.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f3d66dN045d4a51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f3d66dN56606681.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f3d66dN8597cc84.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f6a384Nf2289c0d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f6e051N89d361f4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f814e7N34bad14a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f815a3N45b22491.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f81727N622de50e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f847a8Nfd15df61.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f85b47Nc7a82590.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f964cbN88dc1222.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59f994e4N84199d91.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59fa8badNdb1b317e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59fab4e4Nff5ffb05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59fac6f8N9099950f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/59fe85ddN280ddf1a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a002ba3N126c2f73.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a016416N62c825e9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a016448N87be4827.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a0547fcN92c93957.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a054809N97546816.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a054815N64e6dc84.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a054816Nd8c5ae42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a054816Nddc0ec46.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a054817Na82392d7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a054818N3176323e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a05481aN8ba33038.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a055f60Nac74f518.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a05a299Nf9e5af06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a068a75N20bddaec.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a06b868Nf3f72d02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a06b8afN2b65caed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a06b993Nceef8000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a06c2d7N0ab96524.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a06c340N03fa254d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a0717e2N8cf04467.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a071cf4N7d87ee5a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a07ca99N6b2d7aab.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a07ca9cN0d94db58.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a084a1aNa1aa0a71.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a0942d8N7265b647.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a0942d9N6147e3f0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a0942d9Nd22f8a9c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a0942daN090b3406.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a0942daN4abbd574.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a0942dbNe7b03ec3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a0950c8N0b273e29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a0afeddNb34732af.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a0c0bdeN7d5fb661.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a0cee42Ndde54756.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a0ceebdNeac43da1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a0d4181Nf70c5ebf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a0d47c6N9a39a6ca.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a0d4aa3N09ae70b3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a0e4f24Ned35e1cf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a0e9616Nd5f8770f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a125861N0d1919b5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a125889N8f23fee1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a12588dN18850f0d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a12588eN24965b9c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a12588fNa21bad0c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a125890Ncf84abea.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a125892N8dc9ab04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a125893Neaf6da9a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a12873eN41754123.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a128eb5N17547a87.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a128f16N8c26ce84.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/5a14f5d5Nb20384f9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/6a645f3438653131303136363135633031343435353936373635323334_sma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/6a645f3539646565346232353163643631353130383139343135343432_sma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/7270ffc3baecdd448958f9f5e69cf60f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/73637134313531343537343034363439373539_sma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/7a797171353831333939383236383733373130_sma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/81a6326edc82d343a5a8860a6970f93b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/90a6fa41d0d46b4fb0ff6907ca17c478.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/9224fcea62bfff479a6712ba3a6b47cc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/a400e3d61d5645459f769b00d9f431e7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/afb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/animaite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/asma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/at.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/b769782fe4ecca40913ad375a71cb92d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/c688c683503b0547af23704aaec9c680.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/e4ed3606843f664591ff1f68f7fda12d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/eb0df.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/efod.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/ewm_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/ewm_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/ewm_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/ewm_04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/f5831b9848b32440b381bcd30a3d96c7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/f64963b63d6e5849977ddd6afddc1db5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/fsma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/ggg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/gwc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/herder-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/https-%2F%2Fitem.m.jd.com%2Fproduct%2F5544038.html-pc_source=pc_productDetail_5544038-118-1-4-0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/huawei.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/igg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/iid.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/iig.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/iii.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/iin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/ing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/inn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/logo1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/ngi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/nnn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/oppo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/qglb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/shop_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/shop_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/shop_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/shop_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/sj_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/sj_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/sj_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/sj_04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/sma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/smaa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/smaaa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/smabb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/start.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/sy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/tome.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/toolbars.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/xl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/ys.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/zj_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/zj_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/zj_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/img/zj_04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/js/jquery-3.1.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/js/jquery1.9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/js/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/scss/SHOUhou.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/scss/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/scss/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/scss/shop.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/templates/item.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/tracker.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="844edd1f-a31f-405d-884f-7c9a38428532" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/util/RedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/redis_constants.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo" beforeDir="false" afterPath="$PROJECT_DIR$/demo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/demo/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/data/elasticsearch/nodes/0/_state/global-68.st" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/demo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/AttrController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/AttrController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/SpuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/SpuController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/PmsBaseAttrInfoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/PmsBaseAttrInfoDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/PmsProductInfoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/PmsProductInfoDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/ItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/ItemController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/PmsProductSaleAttrDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/PmsProductSaleAttrDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/PmsSkuImageDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/PmsSkuImageDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/PmsSkuImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/PmsSkuImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/PmsSkuInfoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/PmsSkuInfoDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/PmsProductSaleAttrValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/PmsProductSaleAttrValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/PmsSkuInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/PmsSkuInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/service/AttrService.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/service/AttrService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/service/impl/AttrServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/service/impl/AttrServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/service/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/service/impl/SkuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/service/impl/SkuServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/util/JacksonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/util/JsonUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/mapper/PmsBaseAttrInfoDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/mapper/PmsBaseAttrInfoDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/mapper/PmsSkuImageDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/mapper/PmsSkuImageDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/mapper/PmsProductSaleAttrDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/mapper/PmsProductSaleAttrDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/mapper/PmsSkuInfoDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/mapper/PmsSkuInfoDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/templates/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/templates/item.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/controller/AttrController.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/controller/AttrController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/controller/SpuController.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/controller/SpuController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/PmsBaseAttrInfoDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/PmsBaseAttrInfoDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/PmsProductInfoDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/PmsProductInfoDao.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/PmsProductSaleAttrDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/PmsProductSaleAttrDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/PmsSkuImageDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/PmsSkuImageDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/entity/PmsSkuImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/entity/PmsSkuImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/entity/PmsSkuInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/entity/PmsSkuInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/PmsSkuInfoDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/dao/PmsSkuInfoDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/entity/PmsProductSaleAttrValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/entity/PmsProductSaleAttrValue.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/service/AttrService.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/service/AttrService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/service/impl/AttrServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/service/impl/AttrServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/service/impl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/service/impl/ProductServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/logback-spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/mapper/PmsBaseAttrInfoDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/mapper/PmsBaseAttrInfoDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/mapper/PmsSkuImageDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/mapper/PmsSkuImageDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/demo/util/JacksonUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/demo/util/JacksonUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/mapper/PmsProductSaleAttrDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/mapper/PmsProductSaleAttrDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/mapper/PmsSkuInfoDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/mapper/PmsSkuInfoDao.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/target/test-classes/com/example/demo/DemoApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/test-classes/com/example/demo/DemoApplicationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastdfs-client-java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -396,6 +55,24 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="jdbc:mysql://127.0.0.1:3306/gmall?useUnicode=true&amp;characterEncoding=utf-8&amp;useSSL=false&amp;serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://127.0.0.1:3306/gmall?useUnicode=true&amp;characterEncoding=utf-8&amp;useSSL=false&amp;serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://127.0.0.1:3306/gmall?useUnicode=true&amp;characterEncoding=utf-8&amp;useSSL=false&amp;serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gmall: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://127.0.0.1:3306/gmall?useUnicode=true&amp;characterEncoding=utf-8&amp;useSSL=false&amp;serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gmall: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="pms_sku_sale_attr_value: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
     </expand>
     <select />
   </component>
@@ -403,8 +80,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -454,6 +131,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/demo/src/main/resources/templates" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -473,7 +151,20 @@
       <recent name="com.example.demo.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.DemoApplication">
+  <component name="RunManager" selected="Application.JsonUtil">
+    <configuration name="JsonUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.util.JsonUtil" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
@@ -515,6 +206,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JsonUtil" />
         <item itemvalue="JUnit.DemoApplicationTests.contextLoads2" />
         <item itemvalue="JUnit.DemoApplicationTests.contextLoads" />
       </list>
@@ -548,6 +240,8 @@
       <workItem from="1582638478061" duration="457000" />
       <workItem from="1582682039152" duration="15879000" />
       <workItem from="1582768228668" duration="2423000" />
+      <workItem from="1582854663212" duration="13705000" />
+      <workItem from="1582878726958" duration="4479000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1582519465448</created>
@@ -598,62 +292,62 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="425" y="119" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1582519463615" />
-    <state width="537" height="466" key="DebuggerActiveHint" timestamp="1582711698874">
+    <state width="537" height="466" key="DebuggerActiveHint" timestamp="1582874031005">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="537" height="466" key="DebuggerActiveHint/0.0.1920.1050@0.0.1920.1050" timestamp="1582711698874" />
+    <state width="537" height="466" key="DebuggerActiveHint/0.0.1920.1050@0.0.1920.1050" timestamp="1582874031005" />
     <state x="740" y="215" key="FileChooserDialogImpl" timestamp="1582531606966">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="215" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1582531606966" />
-    <state width="1877" height="324" key="GridCell.Tab.0.bottom" timestamp="1582718278308">
+    <state width="1877" height="134" key="GridCell.Tab.0.bottom" timestamp="1582889778430">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1582718278308" />
-    <state width="1877" height="324" key="GridCell.Tab.0.center" timestamp="1582718278308">
+    <state width="1877" height="134" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1582889778430" />
+    <state width="1877" height="134" key="GridCell.Tab.0.center" timestamp="1582889778430">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1582718278308" />
-    <state width="1877" height="324" key="GridCell.Tab.0.left" timestamp="1582718278308">
+    <state width="1877" height="134" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1582889778430" />
+    <state width="1877" height="134" key="GridCell.Tab.0.left" timestamp="1582889778430">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1582718278308" />
-    <state width="1877" height="324" key="GridCell.Tab.0.right" timestamp="1582718278308">
+    <state width="1877" height="134" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1582889778430" />
+    <state width="1877" height="134" key="GridCell.Tab.0.right" timestamp="1582889778430">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1582718278308" />
-    <state width="1877" height="324" key="GridCell.Tab.1.bottom" timestamp="1582718278308">
+    <state width="1877" height="134" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1582889778430" />
+    <state width="1877" height="353" key="GridCell.Tab.1.bottom" timestamp="1582874467992">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1582718278308" />
-    <state width="1877" height="324" key="GridCell.Tab.1.center" timestamp="1582718278308">
+    <state width="1877" height="353" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1582874467992" />
+    <state width="1877" height="353" key="GridCell.Tab.1.center" timestamp="1582874467992">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1582718278308" />
-    <state width="1877" height="324" key="GridCell.Tab.1.left" timestamp="1582718278308">
+    <state width="1877" height="353" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1582874467992" />
+    <state width="1877" height="353" key="GridCell.Tab.1.left" timestamp="1582874467992">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1582718278308" />
-    <state width="1877" height="324" key="GridCell.Tab.1.right" timestamp="1582718278308">
+    <state width="1877" height="353" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1582874467992" />
+    <state width="1877" height="353" key="GridCell.Tab.1.right" timestamp="1582874467992">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1582718278308" />
-    <state width="1877" height="324" key="GridCell.Tab.2.bottom" timestamp="1582718278308">
+    <state width="1877" height="353" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1582874467992" />
+    <state width="1877" height="353" key="GridCell.Tab.2.bottom" timestamp="1582874467993">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1582718278308" />
-    <state width="1877" height="324" key="GridCell.Tab.2.center" timestamp="1582718278308">
+    <state width="1877" height="353" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1582874467993" />
+    <state width="1877" height="353" key="GridCell.Tab.2.center" timestamp="1582874467992">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1582718278308" />
-    <state width="1877" height="324" key="GridCell.Tab.2.left" timestamp="1582718278308">
+    <state width="1877" height="353" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1582874467992" />
+    <state width="1877" height="353" key="GridCell.Tab.2.left" timestamp="1582874467992">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1582718278308" />
-    <state width="1877" height="324" key="GridCell.Tab.2.right" timestamp="1582718278308">
+    <state width="1877" height="353" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1582874467992" />
+    <state width="1877" height="353" key="GridCell.Tab.2.right" timestamp="1582874467993">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1582718278308" />
+    <state width="1877" height="353" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1582874467993" />
     <state x="600" y="223" key="NewModule_or_Project.wizard" timestamp="1582518971279">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -670,6 +364,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="752" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1582519025060" />
+    <state x="1263" y="481" key="extract.method.dialog" timestamp="1582873821101">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1263" y="481" key="extract.method.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1582873821101" />
     <state x="608" y="373" key="git4idea.ui.GitUnstashDialog" timestamp="1582519040822">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
